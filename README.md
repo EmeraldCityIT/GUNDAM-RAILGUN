@@ -1,2 +1,2 @@
 # GUNDAM-RAILGUN
-Platinum Plating protects railgun systems
+Platinum Plating of barrel and sabot protects railgun systems from wear.
